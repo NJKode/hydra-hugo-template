@@ -1,12 +1,11 @@
 ---
-date: 2016-08-06
+date: 2016-08-06T00:00:00Z
 title: Definition of sales
 categories:
   - sales
 author_staff_member: james
 ---
-A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.
-<!--more-->
+A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same "coin" or transactiona. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages. <!--more-->
 
 ![Cat](https://source.unsplash.com/random/1500x1146)
 
@@ -34,7 +33,6 @@ Many believe that the focus of selling is on the human agents involved in the ex
 
 Within these three tenets, the following definition of professional selling is offered by the American Society for Training and Development (ASTD):
 
-“The holistic business system required to effectively develop, manage, enable, and execute a mutually beneficial, interpersonal exchange of goods and/or services for equitable value.”
-Team selling is one way to influence sales. Team selling is “a group of people representing the sales department and other functional areas in the firm, such as finance, production, and research and development”. (Spiro) Team selling came about in the 1990s through total quality management (TQM). TQM occurs when companies work to improve their customer satisfaction by constantly improving all of their operations.
+“The holistic business system required to effectively develop, manage, enable, and execute a mutually beneficial, interpersonal exchange of goods and/or services for equitable value.” Team selling is one way to influence sales. Team selling is “a group of people representing the sales department and other functional areas in the firm, such as finance, production, and research and development”. (Spiro) Team selling came about in the 1990s through total quality management (TQM). TQM occurs when companies work to improve their customer satisfaction by constantly improving all of their operations.
 
-[source](https://en.wikipedia.org/wiki/Sales): Wikipedia
+[source](https://en.wikipedia.org/wiki/Sales)\: Wikipedia
