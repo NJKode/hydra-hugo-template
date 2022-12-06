@@ -5,4 +5,5 @@ categories:
   - marketing
 author_staff_member: robin
 draft: true
+cool: beans
 ---
